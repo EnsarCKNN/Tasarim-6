@@ -1,0 +1,125 @@
+.tam{
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(192,53,76);
+    border: 1px solid rgb(192,53,76);
+    margin: 0px auto;
+}
+.üst{
+    background-color: rosybrown;
+    width: 100%;
+    height: 125px;
+    margin: 50px auto;
+}
+.başlık{
+    font-size: 40px;
+    margin: 0px 850px;
+}
+.orta_başlık{
+    font-size: 15px;
+    margin: 5px 950px;
+}
+.link{
+    width: 400px;
+    height: 60px;
+    margin: 10px 820px;
+}
+.link1{
+    font-size: 30px;
+    color: white;
+    margin: 0px 20px;
+}
+.link2{
+    font-size: 30px;
+    color: white;
+    margin: 0px 20px;
+}
+.link3{
+    font-size: 30px;
+    color: white;
+    margin: 0px 20px;
+}
+.link4{
+    font-size: 30px;
+    color: white;
+    margin: 0px 20px;
+}
+.link5{
+    font-size: 30px;
+    color: white;
+    margin: 0px 20px;
+}
+.about{
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    margin: 20px auto;
+}
+.arşiv{
+    width: 25%;
+    height: 650px;
+    background-color: white;
+    border: 1px solid white;
+    margin: 50px 200px;
+    float: left;
+}
+.arşiv1{
+    width: 25%;
+    height: 650px;
+    background-color: white;
+    border: 1px solid white;
+    margin: 50px -170px;
+    float: left;
+}
+.arşiv2{
+    width: 25%;
+    height: 650px;
+    background-color: white;
+    border: 1px solid white;
+    margin: 50px 200px;
+    float: left;
+}
+.a{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 195px;
+}
+.a1{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 195px;
+}
+.a2{
+        text-decoration: none;
+        font-size: 50px;
+        background-color: black;
+        color: white;
+        position: relative;
+        top: 20px;
+        left: 195px;
+}
+a b{display: none;}
+a:active b , a:active b{
+    position: relative;
+    background-color: white;
+    color: black;
+}
+a:active b{
+    font-size: 30px;
+    position: absolute;
+    display: block;
+    top: 50px;
+    left: -25px;
+    padding: 5px;
+    background-color: rgb(88, 88, 88);
+    width: 150px;
+    border: 1px solid white;
+}
